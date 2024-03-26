@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "MR-ALVI-BOT",
   "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "-",
+  "prefix": "&",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
